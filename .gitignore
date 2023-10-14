@@ -27,3 +27,5 @@ appsettings.json  # if sensitive data
 Thumbs.db
 *.swp
 *.swo
+
+.fake
