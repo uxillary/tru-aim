@@ -54,7 +54,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 If you have any questions or feedback, feel free to open an issue on GitHub or contact us directly:
 
-- Email: support@truaim.com
+- Email: adamjch@proton.me
 - GitHub Issues: [https://github.com/yourusername/TruAim/issues](https://github.com/yourusername/TruAim/issues)
 
 ## Acknowledgements
